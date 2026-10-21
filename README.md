@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 3D Contribution Graph
+
+![3D contribution graph](./profile-3d-contrib/profile-gitblock.svg)
+
 <!--
 **Kevin-Ngo/Kevin-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
